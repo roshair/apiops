@@ -1,8 +1,0 @@
-{
-  "properties": {
-    "displayName": "CatalogProduct",
-    "description": "This is catalogue Product",
-    "state": "published",
-    "subscriptionRequired": false
-  }
-}
