@@ -1,1 +1,6 @@
-
+apimServiceName: romaanprodapim
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
