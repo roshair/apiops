@@ -2,9 +2,9 @@
   "properties": {
     "loggerType": "applicationInsights",
     "credentials": {
-      "instrumentationKey": "${{secrets.LOGGER_CREDENTIALS}}"
+      "instrumentationKey": "{{secrets.LOGGER_CREDENTIALS}}"
     },
     "isBuffered": true,
-    "resourceId": "${{secrets.RESOURCE}}"
+    "resourceId": "{{secrets.RESOURCE}}"
   }
 }
