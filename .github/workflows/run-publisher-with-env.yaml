@@ -1,6 +1,7 @@
 name: Run Publisher with Environment
 
 on:
+  workflow_dispatch:
   workflow_call:
     inputs:
       API_MANAGEMENT_ENVIRONMENT:
