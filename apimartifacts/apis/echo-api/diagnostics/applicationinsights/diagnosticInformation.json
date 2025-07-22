@@ -1,6 +1,6 @@
 {
   "properties": {
-    "loggerId": "/subscriptions/b3e6b2f2-696b-4c68-8b32-ac16b7283d2c/resourceGroups/romaandev-rg/providers/Microsoft.ApiManagement/service/romaandevapim/loggers/romaandevinsight",
+    "loggerId": "{{LOGGERID}}",
     "alwaysLog": "allErrors",
     "backend": {
       "request": {
