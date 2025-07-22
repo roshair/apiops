@@ -5,6 +5,6 @@
       "instrumentationKey": "${{secrets.LOGGER_CREDENTIALS}}"
     },
     "isBuffered": true,
-    "resourceId": "{{RESOURCE}}"
+    "resourceId": "${{secrets.RESOURCE}}"
   }
 }
