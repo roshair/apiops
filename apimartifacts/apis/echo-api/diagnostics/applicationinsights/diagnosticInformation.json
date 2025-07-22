@@ -1,6 +1,6 @@
 {
   "properties": {
-    "loggerId": "{{LOGGERID}}",
+    "loggerId": "${{secrets.LOGGERID}}",
     "alwaysLog": "allErrors",
     "backend": {
       "request": {
