@@ -1,9 +1,9 @@
 openapi: 3.0.1
 info:
-  title: Echo API Romaan
+  title: Echo API 
   version: '1.0'
 servers:
-  - url: https://romaandevapim.azure-api.net/echo
+  - url: https://romaandevapim.azure-api.net/echoromaan
 paths:
   /resource:
     get:
